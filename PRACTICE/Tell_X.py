@@ -6,3 +6,5 @@ if x != 4:
 	print('Your guess is incorrect')
 
 print('End of program.')
+
+## END OF SCRIPT ##
